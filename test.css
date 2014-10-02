@@ -1,0 +1,184 @@
+body{
+	font-size: 16px; 
+	font-family:  Georgia, Helvetica, Sans-Serif; 
+}
+
+#container{
+	width: 818px;
+	background-color: #0999;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 0;
+
+}
+#top{
+
+}
+h3 { font-family: Georgia, Serif; font-style: italic; color: #666; }
+
+p { font-family: Georgia, Serif; font-style: italic; color: #666; }
+
+li { font-family: Georgia, Serif; font-style: italic; color: #666; }
+
+#bottom{
+	margin-top: 40px;
+	margin-left: 40px;
+	padding-left: 40px;
+	
+
+}
+img{
+	float:right;
+	box-shadow: 5px 5px 3px;
+
+}
+h1{
+	 margin: 0 0 16px 0;
+	 padding: 0 0 16px 0; 
+	 font-size: 60px; 
+	 font-weight: bold; 
+	 box-shadow: 5px 5px 3px;
+	 letter-spacing: 4px; 
+	 border-bottom: 1px solid #999; }
+}
+
+#edu{
+
+	padding: 0 0px 0 0;
+}
+
+.eduLeft{
+	float: left;
+	padding-right: 15px;
+	margin-left: 115px;
+	margin-right: 10px;
+	border-right: 1px solid #999;
+}
+
+.eduRight{ 
+	float:right;
+	margin-top: 0;
+	margin-left: 0px;
+	margin-right: 275px;
+	padding-top: 0;
+}
+
+
+
+#cert{
+
+	padding: 0 0px 0 0;
+}
+
+.certLeft{
+	float: left;
+	padding-right: 15px;
+	margin-left: 95px;
+	margin-right: 10px;
+	border-right: 1px solid #999;
+
+}
+
+.certRight{
+
+	float: right;
+	margin-top: 0;
+	margin-left: 10px;
+	margin-right: 180px;
+	padding-top: 0;
+
+}
+
+#exp{
+
+	padding: 0 0px 0 0;
+}
+
+.expLeft{
+	float: left;
+	padding-right: 15px;
+	margin-left: 105px;
+	margin-right: 10px;
+	border-right: 1px solid #999;
+
+}
+
+.expRight{
+
+	float: right;
+	margin-top: 0;
+	margin-left: 10px;
+	margin-right: -20px;
+	padding-top: 0;
+}
+
+#hob{
+
+	padding: 0 0px 0 0;
+}
+
+.hobLeft{
+	float: left;
+	padding-right: 15px;
+	margin-left: 127px;
+	margin-right: 10px;
+	border-right: 1px solid #999;
+
+}
+
+.hobRight{
+
+	float: right;
+	margin-top: 0;
+	margin-left: 10px;
+	margin-right: 158px;
+	padding-top: 0;
+}
+
+#ref{
+
+	padding: 0 0px 0 0;
+}
+
+.refLeft{
+	float: left;
+	padding-right: 15px;
+	margin-left: 100px;
+	margin-right: 10px;
+	border-right: 1px solid #999;
+
+}
+
+.refRight{
+
+	float: right;
+	margin-top: 0;
+	margin-left: 10px;
+	margin-right:370px;
+	padding-top: 0;
+}
+
+
+/*#section{
+	padding: 0 10px 0 0;
+}
+
+.left{
+	float: left;
+	padding-top: 0;
+	padding-right: 15px;
+	margin-left: 115px;
+	margin-right: 0px;
+	border-right: 1px solid #999;
+}
+
+.right{
+
+	float:right;
+	margin-top: 0;
+	margin-left: 0px;
+	margin-right: 0px;
+	padding-top: 0;
+	
+}*/
+.clear { clear:both; padding-top: 10px; padding-bottom: 10px; }
